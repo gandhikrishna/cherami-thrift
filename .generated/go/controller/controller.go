@@ -68,7 +68,7 @@ import (
 	"database/sql/driver"
 	"errors"
 	"fmt"
-	"github.com/apache/thrift/lib/go/thrift"
+	"github.com/uber/tchannel-go/thirdparty/apache/thrift/lib/go/thrift"
 	"github.com/uber/cherami-thrift/.generated/go/shared"
 
 )

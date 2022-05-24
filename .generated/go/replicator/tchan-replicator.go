@@ -66,7 +66,7 @@ package replicator
 import (
 	"fmt"
 
-	athrift "github.com/apache/thrift/lib/go/thrift"
+	athrift "github.com/uber/tchannel-go/thirdparty/apache/thrift/lib/go/thrift"
 	"github.com/uber/tchannel-go/thrift"
 
 	"github.com/uber/cherami-thrift/.generated/go/shared"
